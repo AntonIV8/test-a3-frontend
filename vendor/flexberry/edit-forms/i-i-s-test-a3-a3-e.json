@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "A3",
+  "name": "IISTestA3A3E",
+  "className": "A3E",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-a3-a3",
+      "modelProjection": "A3E"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISTestA3A3",
+  "modelName": "i-i-s-test-a3-a3",
+  "className": "A3",
+  "nameSpace": "IIS.TestA3",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "A3E",
+      "modelName": "i-i-s-test-a3-a3",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "A3L",
+      "modelName": "i-i-s-test-a3-a3",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
